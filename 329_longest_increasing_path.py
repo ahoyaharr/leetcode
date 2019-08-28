@@ -13,7 +13,7 @@ class Solution:
         4
         >>> s.longestIncreasingPath([[9, 9, 4, 1, 2, 3, 4, 5, 6], [6, 6, 8, 3, 4, 5, 1, 2, 3], [2, 1, 1, 5, 10, 11, 12, 13, 14]])
         8
-        >>> s.longestIncreasingPath([[9,9,4,1,2,3,4,5,6],[6,6,8,3,4,5,1,2,3],[2,1,1,5,1,2,3,4,5]])
+        >>> s.longestIncreasingPath([[9, 9, 4, 1, 2 , 3, 4, 5, 6],[6, 6, 8, 3, 4, 5, 1, 2, 3], [2, 1, 1, 5, 1, 2, 3, 4, 5]])
         6
 
         Returns the length of the longest path in a matrix where the value at each step is greater than the value
