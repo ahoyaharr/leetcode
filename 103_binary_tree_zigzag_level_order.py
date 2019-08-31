@@ -8,9 +8,6 @@ class TreeNode(object):
         self.right = None
 
 class Solution(object):
-    def level_order(self, root):
-        pass
-
     def zigzagLevelOrder(self, root):
         """
         :type root: TreeNode
